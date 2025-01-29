@@ -1,5 +1,10 @@
 .body {
   background-color: rgb(253, 253, 253);
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
 }
 .btn {
   font-size: 30px;
